@@ -1,2 +1,2 @@
 # KneipMeet
-A virtual multiplayer beer-drinking game.
+A multiplayer beer-drinking game.
